@@ -69,9 +69,9 @@ extern "C" {
 #define ANALOG_PINS_LAST        26
 
 /* LED definitions */
-#define LED1                    PE0
-#define LED2                    PE1
-#define LED3                    PE6
+#define LED1                    PC13
+#define LED2                    PC14
+#define LED3                    PC15
 
 #define LED_BUILTIN             PB13
 #define LED_GREEN               PB13
