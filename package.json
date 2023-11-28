@@ -1,0 +1,15 @@
+{
+  "name": "framework-arduinogd32",
+  "version": "4.20000.210603",
+  "description": "Arduino Wiring-based Framework for GD32 microcontrollers",
+  "keywords": [
+    "framework",
+    "arduino",
+    "gigadevices",
+    "gd32"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CommunityGD32Cores/ArduinoCore-GD32"
+  }
+}
