@@ -3,9 +3,9 @@
     {
       "email": "",
       "help": {
-        "online": "https://github.com/CommunityGD32Cores/ArduinoCore-GD32"
+        "online": "https://github.com/lionhart007/ArduinoCore-GD32-main"
       },
-      "maintainer": "Some random folks",
+      "maintainer": "Alan Rezky Dwiputra Nur",
       "name": "GD32Community",
       "platforms": [
         {
