@@ -44,7 +44,7 @@
               "name": "dfu-util"
             }
           ],
-          "url": "https://github.com/lionhart007/ArduinoCore-GD32-main/archive/refs/heads/main.zip",
+          "url": "https://github.com/lionhart007/ArduinoCore-GD32-main/archive/refs/heads/master.zip",
           "version": "0.0.1"
         }
       ],
