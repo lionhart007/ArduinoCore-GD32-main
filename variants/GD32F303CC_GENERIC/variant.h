@@ -79,6 +79,8 @@ extern "C" {
 /* LED definitions */
 #define LED_BUILTIN             PC13
 #define LED_GREEN               PC13
+#define LED_BLUE                PC14
+#define LED_YELLOW              PC15
 #define LED2                    PB2
 
 /* user keys definitions */
