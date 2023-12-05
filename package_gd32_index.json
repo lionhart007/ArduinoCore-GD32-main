@@ -6,7 +6,7 @@
         "online": "https://github.com/lionhart007/ArduinoCore-GD32-main"
       },
       "maintainer": "Alan Rezky Dwiputra Nur",
-      "name": "GD32Community",
+      "name": "GD32",
       "platforms": [
         {
           "architecture": "gd32",
