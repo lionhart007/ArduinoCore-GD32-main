@@ -1,1 +1,1 @@
-This is For Gigadevice firmware
+Gigadevice firmware DLMS Special for GD32F303CE
