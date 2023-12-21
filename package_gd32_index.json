@@ -6,12 +6,18 @@
         "online": "https://github.com/lionhart007/ArduinoCore-GD32-main"
       },
       "maintainer": "Alan Rezky Dwiputra Nur",
-      "name": "GD32",
+      "name": "GD32Community",
       "platforms": [
         {
           "architecture": "gd32",
           "archiveFileName": "ArduinoCore-GD32-main.zip",
           "boards": [
+            {
+              "name": "GD32F303ZE EVAL"
+            },
+            {
+              "name": "GD32F307VG MBED"
+            },
             {
               "name": "GD32F303CC Generic"
             }
@@ -188,7 +194,7 @@
           ]
         }
       ],
-      "websiteURL": ""
+      "websiteURL": "https://github.com/CommunityGD32Cores/ArduinoCore-GD32/"
     }
   ]
 }
